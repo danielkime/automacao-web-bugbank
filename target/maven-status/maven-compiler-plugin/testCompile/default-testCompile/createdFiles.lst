@@ -1,0 +1,13 @@
+Tasks\RealizarRegistroContaUm.class
+PageObjects\RegisterPage.class
+PageObjects\TransferPage.class
+Tasks\VerificarExtrato.class
+Tasks\RealizarLogin.class
+Framework\Browser\DriverManager.class
+PageObjects\HomePage.class
+Tasks\RealizarRegistroContaDois.class
+Framework\TestBase.class
+Tasks\RealizarTransferencia.class
+PageObjects\LoginPage.class
+TestCases\LoginTest.class
+Validacao\LoginValidacao.class

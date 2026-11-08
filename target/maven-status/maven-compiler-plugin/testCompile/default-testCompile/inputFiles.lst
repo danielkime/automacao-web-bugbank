@@ -1,0 +1,13 @@
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Framework\Browser\DriverManager.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Framework\TestBase.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\PageObjects\HomePage.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\PageObjects\LoginPage.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\PageObjects\RegisterPage.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\PageObjects\TransferPage.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Tasks\RealizarLogin.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Tasks\RealizarRegistroContaDois.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Tasks\RealizarRegistroContaUm.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Tasks\RealizarTransferencia.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Tasks\VerificarExtrato.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\TestCases\LoginTest.java
+C:\Users\DropStore - Loja\automacao-web-bugbank\src\test\java\Validacao\LoginValidacao.java
